@@ -10,3 +10,9 @@ Remove barriers between development and the product owner. Teach the product own
 <h4> A sprint is a section of the project time that is dedicated to an increment of the product functionality. This is a 30 day period which is longer than most agile methods however, a functional increment of the product must be completed at the end of the sprint. The sprint starts with one day planning for the sprint, daily scrum meetings occur during the sprint and the sprint is ended with a sprint review and retrospective. <h4>
 <h3> 4. Sprint Backlog <h3>
 <h4> The Sprint Backlog defines the work required for the sprint in a set of goals to be completed from the Product Backlog. <h4> 
+
+<h2> Programming <h2>
+<h3> Algorithm <h3>
+<h4> A Process or set of rules to be followed in calculations or other problem-solving operations. <h4> 
+<h3> Procedural paradigm <h3>
+<h4> Procedures, also known as subroutines, or functions, simply contain a series of computational steps to be carried out. Any given procedure might be called at any point during a program's execution, including by other procedures or itself. <h4> 
