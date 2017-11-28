@@ -12,7 +12,15 @@ Remove barriers between development and the product owner. Teach the product own
 <h4> The Sprint Backlog defines the work required for the sprint in a set of goals to be completed from the Product Backlog. <h4> 
 
 <h2> Programming <h2>
+
 <h3> Algorithm <h3>
 <h4> A Process or set of rules to be followed in calculations or other problem-solving operations. <h4> 
+
 <h3> Procedural paradigm <h3>
 <h4> Procedures, also known as subroutines, or functions, simply contain a series of computational steps to be carried out. Any given procedure might be called at any point during a program's execution, including by other procedures or itself. <h4> 
+
+<h3> Event Driven paradigm <h3>
+<h4> The flow of the program is controlled by events such as user actions, sensor outputs, or messages from other programs/threads. <h4>
+
+<h3> Object Orientated paradigm <h3>
+<h4> Based on the concept of 'Objects', which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods. OOP features object's that can access and modify the data fields of the object with which they are associated. OOP programs are designed by making them out of objects that interact with one and other. <h4>
