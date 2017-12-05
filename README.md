@@ -24,3 +24,6 @@ Remove barriers between development and the product owner. Teach the product own
 
 <h3> Object Orientated paradigm <h3>
 <h4> Based on the concept of 'Objects', which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods. OOP features object's that can access and modify the data fields of the object with which they are associated. OOP programs are designed by making them out of objects that interact with one and other. <h4>
+
+<h3> Relationship Between paradigms <h3>
+<h4> All of the paradigms are trying to achieve the same outcome. They all help implement some form of solution to a problem, the differences are how they do it. They all contain functions but have different ways of them being implemented. Procedural simply just calls the functions, Event Driven ties the function to an event to happen and Object Orientated ties the function to an object through class and other methods. <h3> 
