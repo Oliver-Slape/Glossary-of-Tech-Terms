@@ -14,7 +14,7 @@ Remove barriers between development and the product owner. Teach the product own
 <h2> Programming <h2>
 
 <h3> Algorithm <h3>
-<h4> A Process, set of rules or instructions to be followed in calculations or other problem-solving operations. It can be used to solve singular or multiple problems and can be used to calualte how to structure a function. <h4> 
+<h4> A Process, set of rules or instructions to be followed in calculations or other problem-solving operations. It can be used to solve singular or multiple problems and can be used to calculate how to structure a function. Within IT Algorithms will be used to design structures for functions and specific programs if a task needs to be completed. <h4>
 
 <h3> Procedural paradigm <h3>
 <h4> Procedures, also known as subroutines, or functions, simply contain a series of computational steps to be carried out. Any given procedure might be called at any point during a program's execution, including by other procedures or itself. Essentially it carries out the code of a program from function to function much like an algorithm. <h4> 
